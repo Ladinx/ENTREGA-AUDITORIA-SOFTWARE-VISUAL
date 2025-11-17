@@ -1,4 +1,4 @@
-x# API de Auditoria e Controle Interno
+# API de Auditoria e Controle Interno
 
 Sistema de API RESTful para controle interno organizacional, desenvolvido em C# com .NET 7 e Entity Framework Core.
 
