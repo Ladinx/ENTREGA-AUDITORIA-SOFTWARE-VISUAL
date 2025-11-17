@@ -1,1 +1,0 @@
-Eu, Arthur Soares, estou fazendo esta prova individualmente
